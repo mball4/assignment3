@@ -1,6 +1,5 @@
 body {
     background-image: linear-gradient(#c12ff6, rgb(244, 198, 0));
-    background-size: cover;
     background-position: center;
     height: 100vh;
     color: rgba(255, 255, 255, 0.91);
@@ -10,6 +9,11 @@ body {
     text-transform: uppercase;
     font-family: cursive;
     text-align: center
+}
+.aboutme {
+    text-transform: uppercase;
+    font-family: fantasy;
+    text-align: center;
 }
 
 .figcapclass {
